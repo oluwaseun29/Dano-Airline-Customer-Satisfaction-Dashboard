@@ -29,8 +29,10 @@ SKILL AND CONCEPT DEMONSTRATED
 
 5.Dashboard Automation
 
-VISUALIZATION 
-(image)<img width="607" height="331" alt="17828942560288955489438790247570" src="https://github.com/user-attachments/assets/b50bfb41-f6ec-41dc-b28c-8ded5d6ab0bb" />
+VISUALIZATION
+![Uploading 17832676290036593041104753706262.jpg…]()
+
+
 
 
 ANALYSIS 
