@@ -29,9 +29,8 @@ SKILL AND CONCEPT DEMONSTRATED
 
 5.Dashboard Automation
 
-VISUALIZATION
+VISUALIZATION<img width="1216" height="680" alt="17832678838224753020586203276571" src="https://github.com/user-attachments/assets/898e5a6b-9612-4df5-af7b-1ed0059b457c" />
 
-![Uploading 17832676290036593041104753706262.jpg…]() 
 
 <img width="1218" height="685" alt="17832677228468546301761952143105" src="https://github.com/user-attachments/assets/d9774876-8b52-4d01-9ce2-74eef736f63c" />
 
@@ -53,7 +52,8 @@ Dano Airlines should focus on improving seat comfort, legroom, in-flight enterta
 2.Reduce Flight Delays 
 
 1.The dashboard shows that customer satisfaction is highest for flights with no delays, while satisfaction 
-declines as delays increase. The airline should improve operational planning, aircraft scheduling, and communication with passengers during disruptions.
+declines as delays increase. The airline should improve operational planni
+ng, aircraft scheduling, and communication with passengers during disruptions.
 
 
 CONCLUSION 
